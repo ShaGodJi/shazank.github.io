@@ -24,11 +24,13 @@ acumen
 ## Work Experience
 
 **Data Scientist @ Cloudfm | Mindsett (_January 2021 - Present_)**
-- 
+
+
 **Data Analyst @ Reliance Jio Platform (_December 2020 - Aug 2021_)**
-- 
+ 
+
 **Android Developer Intern @ VEM Tooling (_June 2019 - April 2020_)**
--
+
 
 ## Projects
 
@@ -44,5 +46,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Certifications
-- 
 - [Data Science Blog](https://medium.com/@shazank)
