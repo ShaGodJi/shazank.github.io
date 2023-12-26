@@ -1,10 +1,13 @@
 # Data Scientist
+
 Experienced data scientist with a strong background in machine learning, statistical analysis, and data visualization. Proficient in Python, R,
 and SQL with a solid understanding of big data technologies like Hadoop and Spark. Demonstrated ability to work with stakeholders to
 identify business problems, develop data-driven solutions, and communicate insights through compelling visualizations and reports.
 Passionate about using data to drive impactful decision-making and continuously seeking new challenges to expand technical and business
 acumen
+
 #### Technical Skills
+
  - Frameworks: Spark, Ambari, Kafka, Presto, Airflow
  - Database: PL/SQL, Hadoop, SAP Hana, PostgreSQL, InfluxDB
  - Languages: Scala, Python, R
@@ -13,11 +16,13 @@ acumen
  - Visualization Tools: Grafana, PowerBI, Tableau, Miro
  - Soft Skills: Scrum Kanban, Agile, Jira, Critical Thinking, Leadership
 
-## Education								       		
+## Education	
+
 - M.S., Data Science, Dept. of Mathematics	| University of Essex (_Oct 2022_)	 			        		
 - B.E., Information Technology | Savitribai Phule Pune University (_May 2021_)
 
 ## Work Experience
+
 **Data Scientist @ Cloudfm | Mindsett (_January 2021 - Present_)**
 - 
 **Data Analyst @ Reliance Jio Platform (_December 2020 - Aug 2021_)**
@@ -26,6 +31,7 @@ acumen
 -
 
 ## Projects
+
 ### Analysis of Policing Data in Dallas, Texas
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
