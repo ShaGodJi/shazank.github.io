@@ -19,9 +19,9 @@ acumen
 ## Education	
 
 - M.S., Data Science, Dept. of Mathematics	| University of Essex | Distinction (_Oct 2022_)	 			        		
-- B.E., Information Technology | Savitribai Phule Pune University | Pass (_May 2020_)
-- 12th., Science | Deogiri College | 72.07% (2015)
-- 10th., High School | St. Johns High School | 84.36% (2013)
+- B.E., Information Technology | Savitribai Phule Pune University | 60.05% (_May 2020_)
+- 12th., Science | Deogiri College | 72.07% (_2015_)
+- 10th., High School | St. Johns High School | 84.36% (_2013_)
 
 ## Work Experience
 
