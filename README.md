@@ -8,7 +8,7 @@ acumen
 
 #### Technical Skills
 
- - Frameworks: Spark, Ambari, Kafka, Presto, Airflow
+ - **Frameworks**: Spark, Ambari, Kafka, Presto, Airflow
  - Database: PL/SQL, Hadoop, SAP Hana, PostgreSQL, InfluxDB
  - Languages: Scala, Python, R
  - Tools: Git, Google Cloud Platform, Azure Cloud Platform, Microsoft Office
