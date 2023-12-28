@@ -57,7 +57,20 @@ acumen
 - Set up Admin application to manage data of users and Scan QR codes.
 
 ## Certifications
+1. The Butterfly Garden App (Certified By the Government of India)
+2. Google Cloud Fundamentals: Core Infrastructure (Grade Achieved 98.75)	Oct 2018
+3. Bits and Bytes of Computer Networking (Grade Achieved 94.19)	April 2019
+4. How Google Does Machine Learning (Grade Achieved 98.11)	Feb 2019
+5. SQL for Data Science (Grade Achieved 91.97)	April 2020
+6. Programming for Everybody (Getting Started with Python) (Grade Achieved 94.95)	April 2019
+7. Networking in Google Cloud Platform	January 2019
+8. Time-Series analysis using Python	July 2022
 
+## Interests and Hobbies
+- I am a big-time cricket fan and play the game as well with my local teams.
+-	I play chess, table tennis, pool and badminton.
+-	I am an avid manga reader, anime follower and online gaming player. 
+-	I enjoy keeping up to date with all aspects of technology, especially data science.
+-	I am interested in exploring places and gaining new experiences.
+-	I love dogs and other pet animals.  
 
-## Certifications
-- [Data Science Blog](https://medium.com/@shazank)
