@@ -1,76 +1,61 @@
-# Data Scientist
+# Shashank Goud
 
-Experienced data scientist with a strong background in machine learning, statistical analysis, and data visualization. Proficient in Python, R,
-and SQL with a solid understanding of big data technologies like Hadoop and Spark. Demonstrated ability to work with stakeholders to
-identify business problems, develop data-driven solutions, and communicate insights through compelling visualizations and reports.
-Passionate about using data to drive impactful decision-making and continuously seeking new challenges to expand technical and business
-acumen
+Data Scientist with expertise in machine learning, statistical analysis, and big data technologies. Proficient in developing data-driven solutions through predictive maintenance, time series forecasting, and managing data pipelines for real-time insights. Skilled in developing data-driven solutions and delivering insights through Power BI and Grafana. Passionate about driving impact through data and continuously expanding technical expertise.
 
-#### Technical Skills
+## Experience
 
- - **Frameworks**: Spark, Ambari, Kafka, Presto, Airflow
- - **Database**: PL/SQL, Hadoop, SAP Hana, PostgreSQL, InfluxDB
- - **Languages**: Scala, Python, R
- - **Tools**: Git, Google Cloud Platform, Azure Cloud Platform, Microsoft Office 365
- - **IDE**: IntelliJ Idea, VSCode, JupyterHub, Databricks
- - **Visualization** Tools: Grafana, PowerBI, Tableau, Miro
- - **Soft Skills**: Scrum Kanban, Agile, Jira, Critical Thinking, Leadership
+### Data Scientist @ Cloudfm (January 2022 - Present)
+- Utilized PostgreSQL and InfluxDB for managing and analyzing time series data to derive insights.
+- Worked extensively with Kafka and Azure tools like Databricks and Synapse for data management and analysis.
+- Developed comprehensive energy usage reports that reduced client energy consumption by 12.5%.
+- Created an algorithm that assesses asset health using parameters like power factor (PF) and total harmonic distortion (THD) with harmonics.
+- Worked with Power BI and Grafana for data visualization and reporting.
+- Developed machine learning models for time series forecasting, and predictive, preventive, and conditional maintenance to improve asset management.
+- Built and managed data pipelines to generate insights and communicate findings.
+- Facilitated knowledge transfer between business and clients by creating comprehensive reports that led to a reduction in energy consumption.
+- Created internal projects to alert the business of any data loss from sensor endpoints.
+- Participated in the production team for developing a model to detect changes in fan speed status and its different states.
 
-## Education	
+### Data Analyst @ Reliance Jio Platform (December 2020 - August 2021)
+- Delivered business outputs using Scala on the Spark framework.
+- Derived data from source points using Hive, SAP Tools like SAP Hana and PL/SQL.
+- Provided end-to-end solutions for the data needs of business using Kafka, API, and JSON.
+- Collaborated with peers to develop solutions using Git.
+- Delivered streaming data to businesses using Apache Flink.
+- Used Airflow to deploy DAGs using Python.
+- Managed and assessed data of everyday business queries using Ambari.
+- Trained juniors to use tools and languages such as IntelliJ, Git, Shell, and Scala.
 
-- M.S., Data Science, Dept. of Mathematics	| University of Essex | Distinction (_Oct 2022_)	 			        		
-- B.E., Information Technology | Savitribai Phule Pune University | 60.05% (_May 2020_)
-- 12th., Science | Deogiri College | 72.07% (_2015_)
-- 10th., High School | St. Johns High School | 84.36% (_2013_)
+### Android Developer Intern @ VEM Tooling (June 2019 - April 2020)
+- Built an Android application of size less than 1.5 MB.
+- Deployed the application on Google Playstore.
+- Developed a machine learning model for the detection of butterfly species (accuracy >70%).
+- Used TensorFlow and CNN algorithms to build the model.
+- Formed Structured Dataset and curated the set of Butterfly species.
+- Created a game that rewards users with Coupons in the form of a QR code.
+- Set up an Admin application to manage user data and scan QR codes.
 
-## Work Experience
-
-**Data Scientist @ Cloudfm | Mindsett (_January 2021 - Present_)**
-- Visualised data using Graffana and PowerBI.
-- Used Azure Data Studio to manage and work through the database.
-- Using Azure DevOps to manage repositories.
-- Using Jira, Miro and Monday.com for project collaboration.
-- Used R and Python to work on predictive maintenance projects.
-- Working on Asset Health Performance Indicator Metric using Weibull Distribution and chi-square.
-- Collaborated on a project that detects the on-off and working time of the asset.
-- Delivered automated report solutions for end users which involved the use of various Python functionalities.
-- Using Airflow and Databricks to do ETL processes on Pyspark and Python pipelines.
-- Worked on time-series data and used tools necessary to perform PCA.
-
-**Data Analyst @ Reliance Jio Platform (_December 2020 - Aug 2021_)**
--	Delivered business outputs using Scala on the Spark framework
--	Derived data from source points using Hive, SAP Tools like SAP Hana and PL/SQL
--	Provided end-to-end solutions for data needs of business using Kafka, API, JSON
--	Collaborated with my peers to develop solutions using Git 
--	Delivered streaming data to businesses using Apache Flink 
--	Used Airflow to deploy DAGs using the Python language
--	Managed and assessed data of everyday business queries using Ambari 
--	Mentored juniors to use tools and languages such as IntelliJ, Git, Shell, Scala, etc.
-
-**Android Developer Intern @ VEM Tooling (_June 2019 - April 2020_)**
--	Built an Android application of size less than 1.5 MB
--	Deployed application on Google Playstore
--	Developed a machine learning model for the detection of butterfly species (accuracy >70%)
--	Used TensorFlow and CNN algorithm to build the model
--	Formed Structured Dataset and curated the set of Butterfly species
--	Created a game that rewards users with Coupons in the form of a QR code.
-- Set up Admin application to manage data of users and Scan QR codes.
+## Education
+- M.S., Data Science, Dept. of Mathematics | University of Essex | Distinction (2023)
+- B.E., Information Technology | Savitribai Phule Pune University (2021)
 
 ## Certifications
 1. The Butterfly Garden App (Certified By the Government of India)
-2. Google Cloud Fundamentals: Core Infrastructure (Grade Achieved 98.75)	Oct 2018
-3. Bits and Bytes of Computer Networking (Grade Achieved 94.19)	April 2019
-4. How Google Does Machine Learning (Grade Achieved 98.11)	Feb 2019
-5. SQL for Data Science (Grade Achieved 91.97)	April 2020
-6. Programming for Everybody (Getting Started with Python) (Grade Achieved 94.95)	April 2019
-7. Networking in Google Cloud Platform	January 2019
-8. Time-Series analysis using Python	July 2022
+2. SQL for Data Science | Coursera (2021)
+3. Bits and Bytes of Computer Networking | Coursera (2020)
+4. How Google Does Machine Learning | Coursera (2020)
+5. Google Cloud Fundamentals: Core Infrastructure | Coursera (2019)
 
-## Interests and Hobbies
-- I am a big-time cricket fan and play the game as well with my local teams.
--	I play chess, table tennis, pool and badminton.
--	I am an avid manga reader, anime follower and online gaming player. 
--	I enjoy keeping up to date with all aspects of technology, especially data science.
--	I am interested in exploring places and gaining new experiences.
--	I love dogs and other pet animals.  
+## Skills
+- **Frameworks**: Spark, Kafka, Airflow
+- **Machine Learning & Data Science**: Predictive maintenance, Neural networks, LLMs, Statistical analysis, Time series forecasting
+- **Data Tools**: SAP Hana, PostgreSQL, InfluxDB, Databricks, PowerBI, Grafana
+- **Languages**: JavaScript, Scala, Python, R
+- **Cloud Platforms**: Azure (Data Studio, Synapse, DevOps), Google Cloud
+- **Leadership & Project Management**: Agile, Scrum, Stakeholder management
+- **Visualization & Reporting**: Power BI, Grafana, Miro Board
+- **Soft Skills**: Leadership, Critical Thinking, Communication, Teamwork
+
+## Passion Projects
+In my spare time, I enjoy working on full-stack web development projects using frameworks such as React, Next.js, Astro, and Three.js. I'm also passionate about creating Discord bots and exploring the world of web3 and Artificial Intelligence. These projects allow me to explore creative solutions, sharpen my development skills, and stay up to date with emerging technologies.
 
