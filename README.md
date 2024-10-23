@@ -1,4 +1,4 @@
-# Shashank Goud
+# Data Scientist
 
 Data Scientist with expertise in machine learning, statistical analysis, and big data technologies. Proficient in developing data-driven solutions through predictive maintenance, time series forecasting, and managing data pipelines for real-time insights. Skilled in developing data-driven solutions and delivering insights through Power BI and Grafana. Passionate about driving impact through data and continuously expanding technical expertise.
 
