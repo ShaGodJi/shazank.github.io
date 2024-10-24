@@ -40,7 +40,7 @@ Data Scientist with expertise in machine learning, statistical analysis, and big
 - B.E., Information Technology | Savitribai Phule Pune University (2021)
 
 ## Certifications
-1. The Butterfly Garden App (Certified By the Government of India)
+1. The Butterfly Garden App | (Certified By the Government of India)
 2. SQL for Data Science | Coursera (2021)
 3. Bits and Bytes of Computer Networking | Coursera (2020)
 4. How Google Does Machine Learning | Coursera (2020)
